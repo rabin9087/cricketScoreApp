@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cricket Score App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="date">Date</string>
+    <string name="team_a">TEAM A</string>
+    <string name="vs">VS</string>
+    <string name="team_b">TEAM B</string>
+    <string name="toss_won_by">Toss Won By</string>
+    <string name="tournament_name">Tournament Name :</string>
+    <string name="tournament_nameA">Tournament name</string>
+    <string name="tournament_vanue">Tournament Vanue</string>
+    <string name="start_match">Start Match</string>
+    <string name="number_of_over">Number of Over</string>
+    <string name="bat_first">Bat First</string>
+</resources>
